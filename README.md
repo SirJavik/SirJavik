@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Streamical
+- ⚡ Fun fact: I'm lazy... Oh wait no fun fact indeed.
 
 <!--
 **SirJavik/SirJavik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
